@@ -18,4 +18,5 @@
 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a87191ce-43f2-4db1-8421-8ccc40dc2201" alt="05" width="45%" />
+<img  src="https://github.com/user-attachments/assets/98d5b7a6-5fb2-4329-89d5-023e40228489" alt="06" width="45%" />
 </p>
