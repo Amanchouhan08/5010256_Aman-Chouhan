@@ -28,4 +28,7 @@
 <img src="https://github.com/user-attachments/assets/5a85f283-ccfa-441d-8f45-23075e5baa5b" alt="08" width="45%" />
 </p>
 
-
+#C Programming Certificate_sololearn
+<p align="center">
+![Introduction to c](https://github.com/user-attachments/assets/07222ae7-48c9-4779-8e74-3d729d01e528)
+</p>
