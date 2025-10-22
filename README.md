@@ -1,12 +1,12 @@
-# My Certificates
+# # My Certificates
 
 
 
-\# Git-Certifecate_Simplilearn
+# # Git-Certifecate_Simplilearn
 
 ![git_certifecate](https://github.com/user-attachments/assets/a7d160ab-182f-4952-84e1-1c429b29233d)
 
-\# LinuxCommand_History_Day_01
+# # LinuxCommand_History_Day_01
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a3cb4831-d491-4f50-936e-4ecee2233bf8" alt="01" width="45%" />
@@ -17,7 +17,7 @@
 <img src="https://github.com/user-attachments/assets/ba0a7b87-fd1b-4253-9d44-da7469bd08b0" alt="04" width="45%" />
 </p>
 
-\#LinuxCommand_History_Day_02
+# # LinuxCommand_History_Day_02
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a87191ce-43f2-4db1-8421-8ccc40dc2201" alt="05" width="45%" />
@@ -28,7 +28,7 @@
 <img src="https://github.com/user-attachments/assets/5a85f283-ccfa-441d-8f45-23075e5baa5b" alt="08" width="45%" />
 </p>
 
-\#C Programming Certificate_sololearn
+# # C Programming Certificate_sololearn
 
 ![Introduction to c](https://github.com/user-attachments/assets/04115ab8-3a13-4f3c-8d29-6e24b58f147f)
 
